@@ -1,8 +1,8 @@
-TERMS OF SERVICE AGREEMENT
+# TERMS OF SERVICE AGREEMENT
 
 This Terms of Service Agreement (the "Agreement") is entered into between [Lomadin] ("Bot Owner") and the user ("User") of the OCDex Discord bot (the "Bot").
 
-By using the Bot, the User agrees to be bound by the terms of this Agreement. If the User does not agree to the terms of this Agreement, they should immediately discontinue use of the Bot.
+### By using the Bot, the User agrees to be bound by the terms of this Agreement. If the User does not agree to the terms of this Agreement, they should immediately discontinue use of the Bot.
 
 1. Use of the Bot: The Bot Owner grants the User a non-exclusive, non-transferable, limited license to use the Bot for personal or non-commercial purposes.
 2. Prohibited Use: The User may not use the Bot in any way that violates applicable laws, rules, or regulations or infringes upon the rights of any third party. The User may not use the Bot for any commercial purposes without the express written consent of the Bot Owner.
