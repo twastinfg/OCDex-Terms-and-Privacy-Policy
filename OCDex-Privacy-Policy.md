@@ -7,7 +7,7 @@ The following document explains what data is collected by Medidex
 - "Application" or "Discord application" refers to the Discord bot user, its associated owners and the servers is has
 - "Data" refers to data stored by an individual instance, including personal data
 - "Bot" or "instance" refers to the copy of the code running the Discord application, with its own data
-- "Collectible" refers to any object that is meant to be collected, such as countryballs or other future means like virtual currency
+- "Collectible" refers to any object that is meant to be collected, such as OCs or other future means like virtual currency
 - "Application owners" refers to the owners of the Discord application, meaning the one with any form of access to the application's authentication method and data belonging to the instance
 - "BallsDex moderation team" or "moderation team" refers to the owners of the Discord application and the users they may chose to be part of the moderation team. You may find a list of these users on the [Discord server](https://discord.gg/HmSMT4WKKV).
 
@@ -40,13 +40,13 @@ You may check the source code and see how the data is managed, in addition to th
 
 ## What data is collected
 
-Medidex collects the following data from Discord:
+OCDex collects the following data from Discord:
 
 - User IDs, this is used to identify you inside our database
 - Server (or guild) IDs, this is used to store settings necessary to the bot's operation
 - Channel IDs, this is used to know in which channel should the collectibles spawn
 
-In addition, the following data proper to Medidex is created and used:
+In addition, the following data proper to OCDex is created and used:
 
 - The list of collectibles owned by a user of the service
 - A history of trades done on collectibles, including the users that once owned the said collectible but do not anymore
@@ -63,14 +63,14 @@ The only persons allowed to access the data are the application owners.
 
 Any application owner may interact with the bot and the administrator interface. Only `TBFAPCreator` has direct access on the host machine.
 
-The Polishdex moderation teams do not have access to the data.
+The OCDex moderation teams do not have access to the data.
 
 The data may never be made available to the public, and its access must be secured accordingly.
 
 ## Your rights
 
-You may request a copy or the delection of your personal data held by the application by contacting the application owners. The recommended way is sending an email to "ballsdex (at) laggron (dot) red". You may find other means of contact [here](https://gist.github.com/laggron42/52ae099c55c6ee1320a260b0a3ecac4e#contact).
+You may request a copy or the delection of your personal data held by the application by contacting the application owners. The recommended way is by opening a ticket on the official OCDex Server [here](https://discord.gg/Jhf784Jwka).
 
 ----
 
-Last updated 9th October 2022
+Last updated 4th September 2026
